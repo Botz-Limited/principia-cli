@@ -95,7 +95,7 @@
 
 ### Full Demo
 
-https://github.com/user-attachments/assets/e9d03bc9-a933-49c0-bed6-aea1d2b21cd2
+https://github.com/user-attachments/assets/d7521dd5-2653-4c3a-8601-0634c4ae476e
 
 ## Quick Install
 
